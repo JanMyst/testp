@@ -1,0 +1,130 @@
+{
+  "name": "Muted Neon Noir",
+  "description": "A subdued futuristic theme with a dark focus and hints of teal.",
+  "authors": [
+    {
+      "name": "Lan",
+      "id": "123456789"
+    }
+  ],
+  "semanticColors": {
+    "HEADER_PRIMARY": [
+      "#B0C4DE"
+    ],
+    "HEADER_SECONDARY": [
+      "#778899"
+    ],
+    "TEXT_NORMAL": [
+      "#B0C4DE"
+    ],
+    "TEXT_MUTED": [
+      "#778899"
+    ],
+    "INTERACTIVE_NORMAL": [
+      "#2F4F4F"
+    ],
+    "INTERACTIVE_HOVER": [
+      "#5F9EA0"
+    ],
+    "INTERACTIVE_ACTIVE": [
+      "#20B2AA"
+    ],
+    "INTERACTIVE_MUTED": [
+      "#4A6F6F"
+    ],
+    "BACKGROUND_PRIMARY": [
+      "#0A0A0A"
+    ],
+    "BACKGROUND_SECONDARY": [
+      "#121212"
+    ],
+    "BACKGROUND_SECONDARY_ALT": [
+      "#1A1A1A"
+    ],
+    "BACKGROUND_TERTIARY": [
+      "#222222"
+    ],
+    "BACKGROUND_ACCENT": [
+      "#2F4F4F"
+    ],
+    "BACKGROUND_FLOATING": [
+      "#080808"
+    ],
+    "BACKGROUND_MOBILE_PRIMARY": [
+      "#0A0A0A"
+    ],
+    "BACKGROUND_MOBILE_SECONDARY": [
+      "#121212"
+    ],
+    "BACKGROUND_NESTED_FLOATING": [
+      "#1A1A1A"
+    ],
+    "BACKGROUND_MESSAGE_HOVER": [
+      "#1E1E1E"
+    ],
+    "BACKGROUND_MODIFIER_HOVER": [
+      "#2A2A2A"
+    ],
+    "BACKGROUND_MODIFIER_ACTIVE": [
+      "#323232"
+    ],
+    "BACKGROUND_MODIFIER_SELECTED": [
+      "#2A2A2A"
+    ],
+    "BACKGROUND_MODIFIER_ACCENT": [
+      "#2F4F4F"
+    ],
+    "SCROLLBAR_THIN_THUMB": [
+      "#5F9EA0"
+    ],
+    "SCROLLBAR_THIN_TRACK": [
+      "transparent"
+    ],
+    "SCROLLBAR_AUTO_THUMB": [
+      "#5F9EA0"
+    ],
+    "SCROLLBAR_AUTO_TRACK": [
+      "#1A1A1A"
+    ],
+    "CHANNEL_TEXT_AREA_PLACEHOLDER": [
+      "#778899"
+    ],
+    "CHANNELS_DEFAULT": [
+      "#778899"
+    ],
+    "TEXT_LINK": [
+      "#20B2AA"
+    ],
+    "KEYBOARD": [
+      "#1A1A1A"
+    ],
+    "CHANNEL_ICON": [
+      "#778899"
+    ]
+  },
+  "rawColors": {
+    "PRIMARY_500": "#2F4F4F",
+    "PRIMARY_100": "#B0C4DE",
+    "PRIMARY_200": "#778899",
+    "PRIMARY_300": "#5F9EA0",
+    "PRIMARY_360": "#20B2AA",
+    "PRIMARY_400": "#5F9EA0",
+    "PRIMARY_600": "#0A0A0A",
+    "PRIMARY_630": "#121212",
+    "PRIMARY_660": "#1A1A1A",
+    "PRIMARY_700": "#222222",
+    "PRIMARY_800": "#4A6F6F",
+    "BRAND_260": "#20B2AA",
+    "BRAND_500": "#2F4F4F",
+    "WHITE_500": "#B0C4DE"
+    },
+   "background":{
+      "blur":0.3,
+      "url":"https://files.catbox.moe/3kq0a2.jpeg",
+      "alpha":0.8
+   },
+   "plus":{
+      "version":"0",
+      "mentionLineColor":"#16E2F540"
+   }
+}
