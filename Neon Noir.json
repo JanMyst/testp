@@ -1,136 +1,128 @@
 {
-    "name": "Neon Noir",
-    "description": "A sleek, dark theme with vibrant teal accents, by Coding Sensei",
-    "authors": [
-        {
-            "name": "Coding Sensei",
-            "id": "1234567890"
-        }
+  "name": "Neon Noir",
+  "description": "A futuristic blackish theme with hints of teal and white.",
+  "authors": [
+    {
+      "name": "Coding Sensei",
+      "id": "123456789"
+    }
+  ],
+  "semanticColors": {
+    "HEADER_PRIMARY": [
+      "#E0FFFF"
     ],
-    "semanticColors": {
-        "HEADER_PRIMARY": [
-            "#E6F4F1"
-        ],
-        "HEADER_SECONDARY": [
-            "#C1D7E0"
-        ],
-        "TEXT_NORMAL": [
-            "#E6F4F1"
-        ],
-        "TEXT_MUTED": [
-            "#8AA6B2"
-        ],
-        "INTERACTIVE_NORMAL": [
-            "#16E2F5"
-        ],
-        "INTERACTIVE_HOVER": [
-            "#13B6C4"
-        ],
-        "INTERACTIVE_ACTIVE": [
-            "#0E8A9E"
-        ],
-        "INTERACTIVE_MUTED": [
-            "#3D4C58"
-        ],
-        "BACKGROUND_PRIMARY": [
-            "#0A0F14"
-        ],
-        "BACKGROUND_SECONDARY": [
-            "#0E1621"
-        ],
-        "BACKGROUND_SECONDARY_ALT": [
-            "#14202B"
-        ],
-        "BACKGROUND_TERTIARY": [
-            "#0E1621"
-        ],
-        "BACKGROUND_ACCENT": [
-            "#16E2F5"
-        ],
-        "BACKGROUND_FLOATING": [
-            "#0A0F14"
-        ],
-        "BACKGROUND_MOBILE_PRIMARY": [
-            "#0A0F14"
-        ],
-        "BACKGROUND_MOBILE_SECONDARY": [
-            "#0E1621"
-        ],
-        "BACKGROUND_NESTED_FLOATING": [
-            "#0E1621"
-        ],
-        "BACKGROUND_MESSAGE_HOVER": [
-            "#14202B"
-        ],
-        "BACKGROUND_MODIFIER_HOVER": [
-            "#1A2631"
-        ],
-        "BACKGROUND_MODIFIER_ACTIVE": [
-            "#1F2C38"
-        ],
-        "BACKGROUND_MODIFIER_SELECTED": [
-            "#14202B"
-        ],
-        "BACKGROUND_MODIFIER_ACCENT": [
-            "#0A0F14"
-        ],
-        "SCROLLBAR_THIN_THUMB": [
-            "#2C3D4A"
-        ],
-        "SCROLLBAR_THIN_TRACK": [
-            "transparent"
-        ],
-        "SCROLLBAR_AUTO_THUMB": [
-            "#2C3D4A"
-        ],
-        "SCROLLBAR_AUTO_TRACK": [
-            "transparent"
-        ],
-        "CHANNEL_TEXT_AREA_PLACEHOLDER": [
-            "#8AA6B2"
-        ],
-        "CHANNELS_DEFAULT": [
-            "#8AA6B2"
-        ],
-        "TEXT_LINK": [
-            "#16E2F5"
-        ],
-        "TEXT_DANGER": [
-            "#FB6F6F"
-        ],
-        "KEYBOARD": [
-            "#0E1621"
-        ],
-        "CHANNEL_ICON": [
-            "#16E2F5"
-        ],
-        "CHAT_BACKGROUND": [
-            "#0A0F14"
-        ]
-    },
-    "rawColors": {
-        "PRIMARY_DARK_100": "#0A0F14",
-        "PRIMARY_DARK_200": "#0E1621",
-        "PRIMARY_DARK_300": "#14202B",
-        "PRIMARY_DARK_360": "#1A2631",
-        "PRIMARY_DARK_400": "#1F2C38",
-        "PRIMARY_DARK_500": "#2C3D4A",
-        "PRIMARY_DARK_600": "#3D4C58",
-        "PRIMARY_DARK_630": "#445462",
-        "PRIMARY_DARK_700": "#556C7C",
-        "PRIMARY_DARK_800": "#668396",
-        "BRAND_NEW": "#16E2F5",
-        "WHITE": "#E6F4F1",
-        "BLUE_BRIGHT_HOVER": "#13B6C4",
-        "BLUE_BRIGHT_ACTIVE": "#0E8A9E"
-    },
-   "background":{
-      "blur":0.3,
-      "url":"https://files.catbox.moe/3kq0a2.jpeg",
-      "alpha":0.8
-   },
-   "plus":{
-      "version":"0",
-      "mentionLineColor":"#16E2F540"
-   }
+    "HEADER_SECONDARY": [
+      "#7FFFD4"
+    ],
+    "TEXT_NORMAL": [
+      "#FFFFFF"
+    ],
+    "TEXT_MUTED": [
+      "#40E0D0"
+    ],
+    "INTERACTIVE_NORMAL": [
+      "#48D1CC"
+    ],
+    "INTERACTIVE_HOVER": [
+      "#00CED1"
+    ],
+    "INTERACTIVE_ACTIVE": [
+      "#00FFFF"
+    ],
+    "INTERACTIVE_MUTED": [
+      "#20B2AA"
+    ],
+    "BACKGROUND_PRIMARY": [
+      "#0A0A0A"
+    ],
+    "BACKGROUND_SECONDARY": [
+      "#121212"
+    ],
+    "BACKGROUND_SECONDARY_ALT": [
+      "#1A1A1A"
+    ],
+    "BACKGROUND_TERTIARY": [
+      "#1F1F1F"
+    ],
+    "BACKGROUND_ACCENT": [
+      "#008080"
+    ],
+    "BACKGROUND_FLOATING": [
+      "#080808"
+    ],
+    "BACKGROUND_MOBILE_PRIMARY": [
+      "#0D0D0D"
+    ],
+    "BACKGROUND_MOBILE_SECONDARY": [
+      "#111111"
+    ],
+    "BACKGROUND_NESTED_FLOATING": [
+      "#0F0F0F"
+    ],
+    "BACKGROUND_MESSAGE_HOVER": [
+      "#1C1C1C"
+    ],
+    "BACKGROUND_MODIFIER_HOVER": [
+      "#202020"
+    ],
+    "BACKGROUND_MODIFIER_ACTIVE": [
+      "#252525"
+    ],
+    "BACKGROUND_MODIFIER_SELECTED": [
+      "#2A2A2A"
+    ],
+    "BACKGROUND_MODIFIER_ACCENT": [
+      "#006666"
+    ],
+    "SCROLLBAR_THIN_THUMB": [
+      "#2F4F4F"
+    ],
+    "SCROLLBAR_THIN_TRACK": [
+      "transparent"
+    ],
+    "SCROLLBAR_AUTO_THUMB": [
+      "#40E0D0"
+    ],
+    "SCROLLBAR_AUTO_TRACK": [
+      "#1A1A1A"
+    ],
+    "CHANNELTEXTAREA_BACKGROUND": [
+      "#151515"
+    ],
+    "CHANNELS_DEFAULT": [
+      "#5F9EA0"
+    ],
+    "TEXT_LINK": [
+      "#00FFFF"
+    ],
+    "KEYBOARD": [
+      "#111111"
+    ]
+  },
+  "rawColors": {
+    "PRIMARY_500": "#008B8B",
+    "PRIMARY_100": "#E0FFFF",
+    "PRIMARY_200": "#AFEEEE",
+    "PRIMARY_300": "#7FFFD4",
+    "PRIMARY_360": "#48D1CC",
+    "PRIMARY_400": "#00CED1",
+    "PRIMARY_600": "#0A0A0A",
+    "PRIMARY_630": "#0D0D0D",
+    "PRIMARY_660": "#101010",
+    "PRIMARY_700": "#121212",
+    "PRIMARY_800": "#151515",
+    "BRAND_260": "#40E0D0",
+    "BRAND_360": "#20B2AA",
+    "BRAND_500": "#008080",
+    "WHITE_500": "#FFFFFF",
+    "BLUE_345": "#00FFFF",
+    "GREEN_345": "#00FA9A",
+    "YELLOW_345": "#F0E68C",
+    "RED_400": "#FF6347"
+  },
+  "background": {
+    "blur": 0.1,
+    "url": "https://example.com/neon-noir-background.jpg",
+    "alpha": 0.5
+  }
 }
