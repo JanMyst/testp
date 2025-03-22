@@ -28,6 +28,6 @@
 0.0.0.0 mk.brielayover.com
 0.0.0.0 axillovely.com
 0.0.0.0 time.android.com
-# 0.0.0.0
+0.0.0.0 whitenoisenews.com
 # 0.0.0.0
 # 0.0.0.0
