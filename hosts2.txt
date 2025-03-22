@@ -25,7 +25,8 @@
 127.0.0.1 mulleyrewayle.com
 127.0.0.1 api.gallery.intl.miui.com
 127.0.0.1 lurgleucin.com
-127.0.0.1 www.callyourinformer.com
+127.0.0.1 callyourinformer.com
+127.0.0.1 captorbaryton.com
 # 127.0.0.1
 # 127.0.0.1
 # 127.0.0.1
