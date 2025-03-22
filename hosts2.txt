@@ -34,7 +34,6 @@
 127.0.0.1 static1.mfcdn1.xyz
 127.0.0.1 r-eu.tsyndicate.com
 127.0.0.1 laz.eco
-127.0.0.1 beavescringeria.com
 # 127.0.0.1
 # 127.0.0.1
 # 127.0.0.1
