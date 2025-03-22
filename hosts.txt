@@ -29,5 +29,18 @@
 0.0.0.0 axillovely.com
 0.0.0.0 time.android.com
 0.0.0.0 whitenoisenews.com
+0.0.0.0 static1.mfcdn1.xyz
+0.0.0.0 r-eu.tsyndicate.com
+0.0.0.0 laz.eco
+0.0.0.0 static.cloudflareinsights.com
+0.0.0.0 challenges.cloudflare.com
+0.0.0.0 beavescringeria.com
+0.0.0.0 www.365dmd.co
+0.0.0.0 c3.mfcdn.cc
 # 0.0.0.0
 # 0.0.0.0
+# 0.0.0.0
+# 0.0.0.0
+# 0.0.0.0
+
+
